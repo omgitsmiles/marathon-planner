@@ -69,7 +69,7 @@ const WorkoutSchedule: React.FC = () => {
             </p>
           </Typography>
           <Typography component={'span'}>
-            <strong>Long Run</strong>: 100 miles
+            <strong>Long Run</strong>: 12 miles
             <p>
                 {times.long}
             </p>

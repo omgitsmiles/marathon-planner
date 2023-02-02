@@ -8,7 +8,7 @@ import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 
 
-const PaceChart = () => {
+const PaceChart: React.FC = () => {
 
     function createData(
         easy: string,
